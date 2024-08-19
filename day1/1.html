@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    h1 {
+      border: 1px solid pink;
+    }
+  </style>
+  <body>
+    <h1>learning node js</h1>
+
+    <script>
+      const currentYear = new Date().getFullYear();
+
+      console.log(currentYear);
+
+      alert("hello");
+      const root = document.getElementsByTagName("h1")[0];
+      console.log(root);
+      root.addEventListener("click", function () {
+        alert("hello");
+      });
+
+      console.log(root);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,30 @@
+node version
+https://github.com/coreybutler/nvm-windows
+
+
+21
+
+20
+
+16
+
+3 different
+
+
+how to run node code
+
+node filename
+
+
+-------------
+
+node module approach
+
+common js  ->cjs
+
+module js ->mjs
+---------------------------
+
+.js
+.cjs
+.mjs
